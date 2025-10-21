@@ -3,7 +3,6 @@
 I'm **Conor Murphy** ([@conor-codes](https://github.com/conor-codes)) — a **.NET and MAUI Developer** who enjoys building clean, reliable apps with a focus on usability and thoughtful design. 
 
 With over 10 years of experience in cross-platform mobile development, I’ve worked across .NET, Xamarin, and MAUI, creating digital products that balance strong architecture with a great user experience.
-
 I like crafting software that feels good to use fast, functional, and maintainable.  
 
 Currently, I’m refining my full-stack skills with **ASP.NET Core**, **APIs**, and **modern front-end tools** like **Astro** and **Tailwind**.
