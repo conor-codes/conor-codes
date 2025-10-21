@@ -11,7 +11,6 @@ Currently, I’m refining my full-stack skills with **ASP.NET Core**, **APIs**, 
 
 ### 🧠 What I Do
 - Cross-platform app development using **.NET MAUI** and **C#**  
-- Clean architecture and component-based design  
 - UI/UX, making complex things simple to use  
 - Continuous learning around backend and deployment practices  
 
