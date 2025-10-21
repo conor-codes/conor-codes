@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**conor-codes/conor-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Conor Murphy** ([@conor-codes](https://github.com/conor-codes)) — a **.NET and MAUI Developer** who enjoys building clean, reliable apps with a focus on usability and thoughtful design. 
 
-Here are some ideas to get you started:
+With over 10 years of experience in cross-platform mobile development, I’ve worked across .NET, Xamarin, and MAUI, creating digital products that balance strong architecture with a great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like crafting software that feels good to use fast, functional, and maintainable.  
+Currently, I’m refining my full-stack skills with **ASP.NET Core**, **APIs**, and **modern front-end tools** like **Astro** and **Tailwind**.
+
+---
+
+### 🧠 What I Do
+- Cross-platform app development using **.NET MAUI** and **C#**  
+- Clean architecture and component-based design  
+- UI/UX, making complex things simple to use  
+- Continuous learning around backend and deployment practices  
+
+---
+
+### 🚀 Projects & Work
+- 🌐 [**conor.codes**](https://conor.codes) — personal portfolio site (Astro + Tailwind + Vercel)  
+- 📓 [**Easy Journal**](https://github.com/conor-codes/easy-journal) — a minimal journaling app for personal notes and reflection  
+
+---
+
+### 🌿 Currently Exploring
+- Improving architecture patterns for MAUI projects  
+- Building REST APIs with **ASP.NET Core**  
+- Subtle motion and accessibility in mobile interfaces  
+
+---
+
+### [![YouTube](https://img.shields.io/badge/YouTube-ConorCodes-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ConorCodes)
+- Although my YouTube channel isn’t currently active, I’ve shared development content and tutorials under ConorCodes now with over 300 subscribers.
+
+---
+
+### 💬 Get in Touch
+- [🌐 Portfolio](https://conor.codes)  
+- [💼 LinkedIn](https://linkedin.com/in/conor-murphy-dev)  
+- [📦 GitHub](https://github.com/conor-codes)  
+- [🎥 YouTube](https://www.youtube.com/@ConorCodes) — older dev content, 300+ subscribers  
+
+---
+
+> “Build things that feel good to use — fast, functional, and not terrible to look at.”
