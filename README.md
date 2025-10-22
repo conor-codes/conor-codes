@@ -24,8 +24,7 @@ Currently, I’m refining my full-stack skills with **ASP.NET Core**, **APIs**, 
 
 ### 🌿 Currently Exploring
 - Improving architecture patterns for MAUI projects  
-- Building REST APIs with **ASP.NET Core**  
-- Subtle motion and accessibility in mobile interfaces  
+- Real-time chat application built with ASP.NET Core, SignalR, Entity Framework Core, and PostgreSQL, following clean architecture principles and using JWT authentication for secure communication.
 
 ---
 
