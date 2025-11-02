@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hey! 👋  
 
 I'm **Conor Murphy** ([@conor-codes](https://github.com/conor-codes)) — a **.NET and MAUI Developer** who enjoys building clean, reliable apps with a focus on usability and thoughtful design. 
 
